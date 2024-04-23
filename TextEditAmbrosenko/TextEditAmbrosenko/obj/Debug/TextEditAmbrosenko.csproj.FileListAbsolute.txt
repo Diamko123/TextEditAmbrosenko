@@ -1,0 +1,11 @@
+C:\Users\29375347\Desktop\TextEditAmbrosenko\TextEditAmbrosenko\bin\Debug\TextEditAmbrosenko.exe.config
+C:\Users\29375347\Desktop\TextEditAmbrosenko\TextEditAmbrosenko\bin\Debug\TextEditAmbrosenko.exe
+C:\Users\29375347\Desktop\TextEditAmbrosenko\TextEditAmbrosenko\bin\Debug\TextEditAmbrosenko.pdb
+C:\Users\29375347\Desktop\TextEditAmbrosenko\TextEditAmbrosenko\obj\Debug\TextEditAmbrosenko.Form1.resources
+C:\Users\29375347\Desktop\TextEditAmbrosenko\TextEditAmbrosenko\obj\Debug\TextEditAmbrosenko.Properties.Resources.resources
+C:\Users\29375347\Desktop\TextEditAmbrosenko\TextEditAmbrosenko\obj\Debug\TextEditAmbrosenko.csproj.GenerateResource.cache
+C:\Users\29375347\Desktop\TextEditAmbrosenko\TextEditAmbrosenko\obj\Debug\TextEditAmbrosenko.csproj.CoreCompileInputs.cache
+C:\Users\29375347\Desktop\TextEditAmbrosenko\TextEditAmbrosenko\obj\Debug\TextEditAmbrosenko.exe
+C:\Users\29375347\Desktop\TextEditAmbrosenko\TextEditAmbrosenko\obj\Debug\TextEditAmbrosenko.pdb
+C:\Users\29375347\Desktop\TextEditAmbrosenko\TextEditAmbrosenko\obj\Debug\TextEditAmbrosenko.AboutBox1.resources
+C:\Users\29375347\Desktop\TextEditAmbrosenko\TextEditAmbrosenko\obj\Debug\TextEditAmbrosenko.csproj.AssemblyReference.cache
